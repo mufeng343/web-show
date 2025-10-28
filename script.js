@@ -24,7 +24,7 @@ function createStars() {
 const appUrls = {
     'quiz-game': 'https://quiz-game-sandy-eight.vercel.app/',
     'todo-app': 'https://todo-pi-six-10.vercel.app/',
-    'form-validator': 'https://register-black-beta.vercel.app/',
+    'form-validator': 'https://register-coral-eta.vercel.app/',
     'password-generator': 'https://password-generator-phi-two-33.vercel.app/',
     'recipe-finder': 'https://recipe-finder-puce-six.vercel.app/'
 };
